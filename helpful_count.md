@@ -1,4 +1,4 @@
-<a href="https://IsaacZacher.github.io/Portfolio/">Home</a>
+<a href="https://isaaczacher.github.io/portfolio/">Home</a>
 
 # Fun Codes 
 ---
