@@ -1,4 +1,4 @@
-<a href="https://IsaacZacher.github.io/Portfolio/">Home</a>
+<a href="https://isaaczacher.github.io/portfolio/">Home</a>
 
 ## Violin Plots 
 ---
@@ -287,7 +287,6 @@ by_cross.head(20)
   </tbody>
 </table>
 <p>7 rows × 24 columns</p>
-</div>
 
 
 
