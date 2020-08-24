@@ -7,7 +7,7 @@
 
 
 
-> ### My name is Isaac Zacher and I am entering my third year of a BSc in Neuroscience at Dalhousie university. I am currently volunteering as a research assistant in the Adamo lab and am slowly building my coding and data science skills. I love to learn new things and always appreciate a good challenge 
+### My name is Isaac Zacher and I am entering my third year of a BSc in Neuroscience at Dalhousie University. I am currently volunteering as a research assistant in the Adamo lab buidling my coding, data science skills, and practical lab skills. I love to learn new things and always appreciate a good challenge 
 
 
 > **Contact Info**: is529187@dal.ca 
