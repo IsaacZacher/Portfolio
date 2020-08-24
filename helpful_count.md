@@ -56,5 +56,3 @@ plt.show()
 
 ![png](uber_demo_18_0.png)
 
-
-<a href=https://isaaczacher.github.io/Portfolio/helpful_count.html>Home</a>
