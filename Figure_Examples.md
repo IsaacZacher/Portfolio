@@ -297,4 +297,4 @@ sns.heatmap(by_cross)
 plt.show()
 ```
 ![heat (Figure 3)](uber_demo_14_0.png)
-<a href="https://isaaczacher.github.io/Portfolio/Figure_Examples.html">Back to Top </a>
+<a href="https://isaaczacher.github.io/portfolio/Figure_Examples.html">Back to Top </a>
