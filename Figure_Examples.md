@@ -79,16 +79,6 @@ by_cross.head(20)
       <th>8</th>
       <th>9</th>
       <th>...</th>
-      <th>14</th>
-      <th>15</th>
-      <th>16</th>
-      <th>17</th>
-      <th>18</th>
-      <th>19</th>
-      <th>20</th>
-      <th>21</th>
-      <th>22</th>
-      <th>23</th>
     </tr>
     <tr>
       <th>weekday</th>
@@ -102,19 +92,9 @@ by_cross.head(20)
       <th></th>
       <th></th>
       <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
+      <td>...</td>
+   </tr>
+   </thead>
   <tbody>
     <tr>
       <th>0</th>
@@ -129,16 +109,6 @@ by_cross.head(20)
       <td>3138</td>
       <td>2211</td>
       <td>...</td>
-      <td>3117</td>
-      <td>3818</td>
-      <td>4962</td>
-      <td>5574</td>
-      <td>4725</td>
-      <td>4386</td>
-      <td>3573</td>
-      <td>3079</td>
-      <td>1976</td>
-      <td>1091</td>
     </tr>
     <tr>
       <th>1</th>
@@ -153,16 +123,6 @@ by_cross.head(20)
       <td>4594</td>
       <td>2962</td>
       <td>...</td>
-      <td>4489</td>
-      <td>6042</td>
-      <td>7521</td>
-      <td>8297</td>
-      <td>7089</td>
-      <td>6459</td>
-      <td>6310</td>
-      <td>5993</td>
-      <td>3614</td>
-      <td>1948</td>
     </tr>
     <tr>
       <th>2</th>
@@ -177,16 +137,6 @@ by_cross.head(20)
       <td>5242</td>
       <td>3846</td>
       <td>...</td>
-      <td>5438</td>
-      <td>7071</td>
-      <td>8213</td>
-      <td>9151</td>
-      <td>8334</td>
-      <td>7794</td>
-      <td>7783</td>
-      <td>6921</td>
-      <td>4845</td>
-      <td>2571</td>
     </tr>
     <tr>
       <th>3</th>
@@ -201,16 +151,6 @@ by_cross.head(20)
       <td>3616</td>
       <td>2654</td>
       <td>...</td>
-      <td>4083</td>
-      <td>5182</td>
-      <td>6149</td>
-      <td>6951</td>
-      <td>6637</td>
-      <td>5929</td>
-      <td>6345</td>
-      <td>6585</td>
-      <td>5370</td>
-      <td>2909</td>
     </tr>
     <tr>
       <th>4</th>
@@ -225,16 +165,6 @@ by_cross.head(20)
       <td>3648</td>
       <td>2732</td>
       <td>...</td>
-      <td>4087</td>
-      <td>5354</td>
-      <td>6259</td>
-      <td>6790</td>
-      <td>7258</td>
-      <td>6247</td>
-      <td>5165</td>
-      <td>6265</td>
-      <td>6708</td>
-      <td>5393</td>
     </tr>
     <tr>
       <th>5</th>
@@ -249,16 +179,6 @@ by_cross.head(20)
       <td>1372</td>
       <td>1764</td>
       <td>...</td>
-      <td>3042</td>
-      <td>4457</td>
-      <td>5410</td>
-      <td>5558</td>
-      <td>6165</td>
-      <td>5529</td>
-      <td>4792</td>
-      <td>5811</td>
-      <td>6493</td>
-      <td>5719</td>
     </tr>
     <tr>
       <th>6</th>
@@ -273,16 +193,6 @@ by_cross.head(20)
       <td>1233</td>
       <td>1770</td>
       <td>...</td>
-      <td>2934</td>
-      <td>3400</td>
-      <td>3489</td>
-      <td>3154</td>
-      <td>2795</td>
-      <td>2579</td>
-      <td>2276</td>
-      <td>2310</td>
-      <td>1639</td>
-      <td>1018</td>
     </tr>
   </tbody>
 </table>
